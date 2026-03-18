@@ -16,12 +16,15 @@
     "@mui/material": "^7.3.9",
     "@mui/x-date-pickers": "^8.27.2",
     "@tailwindcss/postcss": "^4.2.1",
+    "cross-fetch": "^4.1.0",
     "dayjs": "^1.11.19",
     "next": "15.4.8",
+    "node-fetch": "^2.7.0",
     "postcss": "^8.5.8",
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "tailwindcss": "^4.2.1"
+    "tailwindcss": "^4.2.1",
+    "undici": "^7.24.3"
   },
   "devDependencies": {
     "@testing-library/dom": "^10.4.0",
